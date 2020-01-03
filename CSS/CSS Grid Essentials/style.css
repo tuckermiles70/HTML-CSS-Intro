@@ -1,0 +1,12 @@
+.grid {
+    border: 2px blue solid;
+    height: 500px;
+    width: 500px;
+  }
+  
+  .box {
+    background-color: beige;
+    color: black;
+    border-radius: 5px;
+    border: 2px dodgerblue solid;
+  }
